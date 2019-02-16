@@ -9,21 +9,18 @@ body {
     font-weight: 300;
     background-color: #EFF2F1;
 }
+
+td {
+    width: 125px;
+    min-width: 80px;
+}
   
 #ttt_board {
     background-color: lightgray;
-    width: 
 }
 
 #ttt_board td {
-    height: 150px;
-    width: 150px;
+    height: 125px;
     min-height: 80px;
-    min-width: 80px;
-}
-
-#ttt_header td {
-    width: 150px;
-    min-width: 80px;
 }
 
