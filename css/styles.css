@@ -1,0 +1,29 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+  
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    background-color: #EFF2F1;
+}
+  
+#ttt_board {
+    background-color: lightgray;
+    width: 
+}
+
+#ttt_board td {
+    height: 150px;
+    width: 150px;
+    min-height: 80px;
+    min-width: 80px;
+}
+
+#ttt_header td {
+    width: 150px;
+    min-width: 80px;
+}
+
