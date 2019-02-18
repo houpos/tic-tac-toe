@@ -1,6 +1,8 @@
 # Tic Tac Toe
 A simple tic tac toe game using Javascript, JQuery, and Bootstrap
 
+[See Demo](https://houpos.github.io/tic-tac-toe/)
+
 ## Getting Started
 Download project to your local machine and run using a local testing web server. 
 
